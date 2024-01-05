@@ -1,0 +1,1911 @@
+{
+    "items": [
+        {
+            "id": "90254777",
+            "premium": false,
+            "name": "Швея/портной (подработка)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": 80000,
+                "to": 120000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Москва",
+                "street": "Динамовская улица",
+                "building": "1А",
+                "lat": 55.732175,
+                "lng": 37.66371,
+                "description": null,
+                "raw": "Москва, Динамовская улица, 1А",
+                "metro": {
+                    "station_name": "Пролетарская",
+                    "line_name": "Таганско-Краснопресненская",
+                    "station_id": "7.62",
+                    "line_id": "7",
+                    "lat": 55.731546,
+                    "lng": 37.666917
+                },
+                "metro_stations": [
+                    {
+                        "station_name": "Пролетарская",
+                        "line_name": "Таганско-Краснопресненская",
+                        "station_id": "7.62",
+                        "line_id": "7",
+                        "lat": 55.731546,
+                        "lng": 37.666917
+                    }
+                ],
+                "id": "2120564"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-12-04T09:38:01+0300",
+            "created_at": "2023-12-04T09:38:01+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=90254777",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/90254777?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/90254777",
+            "relations": [],
+            "employer": {
+                "id": "2989296",
+                "name": "Koffes",
+                "url": "https://api.hh.ru/employers/2989296",
+                "alternate_url": "https://hh.ru/employer/2989296",
+                "logo_urls": null,
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2989296",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Опыт: от 2-х лет. Высокое качество пошива, аккуратность. Умение работать с разными видами тканей. Знание швейного оборудования. ",
+                "responsibility": "Выполнение заказов в установленный срок. Ремонт одежды любой сложности."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "flexible",
+                "name": "Гибкий график"
+            },
+            "working_days": [],
+            "working_time_intervals": [
+                {
+                    "id": "from_four_to_six_hours_in_a_day",
+                    "name": "Можно работать сменами по 4–6 часов в день"
+                }
+            ],
+            "working_time_modes": [
+                {
+                    "id": "start_after_sixteen",
+                    "name": "Можно начинать работать после 16:00"
+                }
+            ],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "141",
+                    "name": "Швея, портной, закройщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "part",
+                "name": "Частичная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "90719885",
+            "premium": false,
+            "name": "Портная/портной-швея",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1002",
+                "name": "Минск",
+                "url": "https://api.hh.ru/areas/1002"
+            },
+            "salary": {
+                "from": 1500,
+                "to": 2000,
+                "currency": "BYR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Минск",
+                "street": "Автозаводская линия",
+                "building": null,
+                "lat": 53.90963,
+                "lng": 27.497125,
+                "description": null,
+                "raw": "Минск, Автозаводская линия",
+                "metro": {
+                    "station_name": "Пушкинская",
+                    "line_name": "Автозаводская",
+                    "station_id": "63.419",
+                    "line_id": "63",
+                    "lat": 53.909519,
+                    "lng": 27.495499
+                },
+                "metro_stations": [
+                    {
+                        "station_name": "Пушкинская",
+                        "line_name": "Автозаводская",
+                        "station_id": "63.419",
+                        "line_id": "63",
+                        "lat": 53.909519,
+                        "lng": 27.495499
+                    }
+                ],
+                "id": "596199"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-12-15T10:19:17+0300",
+            "created_at": "2023-12-15T10:19:17+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=90719885",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/90719885?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/90719885",
+            "relations": [],
+            "employer": {
+                "id": "1105308",
+                "name": "Интермода",
+                "url": "https://api.hh.ru/employers/1105308",
+                "alternate_url": "https://hh.ru/employer/1105308",
+                "logo_urls": null,
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1105308",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Профессиональные навыки портной , аккуратность, ответственность. Профильное швейное образование желательно, но не критично. Опыт от 1 года.",
+                "responsibility": "Сборка изделий по готовому крою."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "141",
+                    "name": "Швея, портной, закройщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "90300672",
+            "premium": false,
+            "name": "Швея",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "95",
+                "name": "Тюмень",
+                "url": "https://api.hh.ru/areas/95"
+            },
+            "salary": {
+                "from": 80000,
+                "to": null,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Тюмень",
+                "street": "улица Клары Цеткин",
+                "building": "17А",
+                "lat": 57.153619,
+                "lng": 65.493715,
+                "description": null,
+                "raw": "Тюмень, улица Клары Цеткин, 17А",
+                "metro": null,
+                "metro_stations": [],
+                "id": "14791627"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-12-04T20:33:42+0300",
+            "created_at": "2023-12-04T20:33:42+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=90300672",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/90300672?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/90300672",
+            "relations": [],
+            "employer": {
+                "id": "5034239",
+                "name": "YAMAL",
+                "url": "https://api.hh.ru/employers/5034239",
+                "alternate_url": "https://hh.ru/employer/5034239",
+                "logo_urls": null,
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5034239",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Опыт работы на потоке приветствуется. Опыт работы на промышленных швейных машинах. Усидчивость, аккуратность. Желание работать и зарабатывать.",
+                "responsibility": "Пошив трикотажных изделий. Выполнение плана пошива. Работа преимущественно на прямострочной машине, а также на оверлоке и распошиве. Умение работать с..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": true,
+            "professional_roles": [
+                {
+                    "id": "141",
+                    "name": "Швея, портной, закройщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "90766274",
+            "premium": false,
+            "name": "Швея на простые изделия",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "78",
+                "name": "Самара",
+                "url": "https://api.hh.ru/areas/78"
+            },
+            "salary": {
+                "from": 50000,
+                "to": 100000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Самара",
+                "street": "проспект Кирова",
+                "building": "24к24",
+                "lat": 53.193191,
+                "lng": 50.286046,
+                "description": null,
+                "raw": "Самара, проспект Кирова, 24к24",
+                "metro": null,
+                "metro_stations": [],
+                "id": "1782120"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-12-18T06:40:17+0300",
+            "created_at": "2023-12-18T06:40:17+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=90766274",
+            "show_logo_in_search": null,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/90766274?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/90766274",
+            "relations": [],
+            "employer": {
+                "id": "3630032",
+                "name": "Новатор",
+                "url": "https://api.hh.ru/employers/3630032",
+                "alternate_url": "https://hh.ru/employer/3630032",
+                "logo_urls": {
+                    "240": "https://hhcdn.ru/employer-logo/2733563.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/573048.png",
+                    "90": "https://hhcdn.ru/employer-logo/2733562.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3630032",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "ответственность, дисциплинированность. - способность и желание работать и зарабатывать.",
+                "responsibility": "МЫ ОБУЧАЕМ ПОШИВУ НАШИХ ИЗДЕЛИЙ в процессе работы. - Пошив мешков(с обучением)."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "141",
+                    "name": "Швея, портной, закройщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "90452179",
+            "premium": false,
+            "name": "Швея",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "88",
+                "name": "Казань",
+                "url": "https://api.hh.ru/areas/88"
+            },
+            "salary": {
+                "from": 40000,
+                "to": 130000,
+                "currency": "RUR",
+                "gross": true
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Казань",
+                "street": "улица Сары Садыковой",
+                "building": "59",
+                "lat": 55.771504,
+                "lng": 49.120607,
+                "description": null,
+                "raw": "Казань, улица Сары Садыковой, 59",
+                "metro": {
+                    "station_name": "Суконная слобода",
+                    "line_name": "Центральная",
+                    "station_id": "49.274",
+                    "line_id": "49",
+                    "lat": 55.777094,
+                    "lng": 49.142275
+                },
+                "metro_stations": [
+                    {
+                        "station_name": "Суконная слобода",
+                        "line_name": "Центральная",
+                        "station_id": "49.274",
+                        "line_id": "49",
+                        "lat": 55.777094,
+                        "lng": 49.142275
+                    }
+                ],
+                "id": "12296078"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-12-07T16:07:23+0300",
+            "created_at": "2023-12-07T16:07:23+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=90452179",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/90452179?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/90452179",
+            "relations": [],
+            "employer": {
+                "id": "4821847",
+                "name": "БАРАКАТТЕКС-ПОВОЛЖЬЕ",
+                "url": "https://api.hh.ru/employers/4821847",
+                "alternate_url": "https://hh.ru/employer/4821847",
+                "logo_urls": null,
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4821847",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Аккуратность. Скорость.",
+                "responsibility": "Пошив махровых, вафельных халатов. Пошив КПБ бязь, поплин, сатин."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": true,
+            "professional_roles": [
+                {
+                    "id": "131",
+                    "name": "Упаковщик, комплектовщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "91002415",
+            "premium": false,
+            "name": "Модель - Администратор по примеркам Женской одежды (Мода, Дизайн)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": 83000,
+                "to": null,
+                "currency": "RUR",
+                "gross": true
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Москва",
+                "street": "Замоскворецкая линия",
+                "building": null,
+                "lat": 55.65455850639825,
+                "lng": 37.648397693114234,
+                "description": null,
+                "raw": "Москва, Замоскворецкая линия",
+                "metro": {
+                    "station_name": "Варшавская",
+                    "line_name": "Каховская",
+                    "station_id": "11.26",
+                    "line_id": "11",
+                    "lat": 55.653294,
+                    "lng": 37.619522
+                },
+                "metro_stations": [
+                    {
+                        "station_name": "Варшавская",
+                        "line_name": "Каховская",
+                        "station_id": "11.26",
+                        "line_id": "11",
+                        "lat": 55.653294,
+                        "lng": 37.619522
+                    },
+                    {
+                        "station_name": "Кантемировская",
+                        "line_name": "Замоскворецкая",
+                        "station_id": "2.42",
+                        "line_id": "2",
+                        "lat": 55.636107,
+                        "lng": 37.656218
+                    },
+                    {
+                        "station_name": "Каширская",
+                        "line_name": "Замоскворецкая",
+                        "station_id": "2.45",
+                        "line_id": "2",
+                        "lat": 55.655745,
+                        "lng": 37.649683
+                    },
+                    {
+                        "station_name": "Каширская",
+                        "line_name": "Каховская",
+                        "station_id": "11.46",
+                        "line_id": "11",
+                        "lat": 55.654327,
+                        "lng": 37.647705
+                    }
+                ],
+                "id": "204579"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-01-03T20:50:09+0300",
+            "created_at": "2024-01-03T20:50:09+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=91002415",
+            "show_logo_in_search": null,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/91002415?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/91002415",
+            "relations": [],
+            "employer": {
+                "id": "1124784",
+                "name": "AVALON",
+                "url": "https://api.hh.ru/employers/1124784",
+                "alternate_url": "https://hh.ru/employer/1124784",
+                "logo_urls": {
+                    "240": "https://hhcdn.ru/employer-logo/929268.jpeg",
+                    "90": "https://hhcdn.ru/employer-logo/929267.jpeg",
+                    "original": "https://hhcdn.ru/employer-logo-original/71952.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1124784",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Приветствуется профильное образование (конструктор, дизайнер, художник, <highlighttext>швея</highlighttext> и пр.) Возможно - профессиональное развитие в области легкой и текстильной промышленности. ",
+                "responsibility": "Примерка моделей трикотажной одежды и моделей женской верхней одежды. Работа и помощь в создании и разработки готовых образцов коллекций трикотажной..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "40",
+                    "name": "Другое"
+                }
+            ],
+            "accept_incomplete_resumes": true,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "89649084",
+            "premium": false,
+            "name": "Швея (прямая строчка)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "2",
+                "name": "Санкт-Петербург",
+                "url": "https://api.hh.ru/areas/2"
+            },
+            "salary": {
+                "from": 70000,
+                "to": 100000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Санкт-Петербург",
+                "street": "Октябрьская набережная",
+                "building": "50",
+                "lat": 59.887575,
+                "lng": 30.450903,
+                "description": null,
+                "raw": "Санкт-Петербург, Октябрьская набережная, 50",
+                "metro": null,
+                "metro_stations": [],
+                "id": "4106901"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-12-15T13:54:33+0300",
+            "created_at": "2023-12-15T13:54:33+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=89649084",
+            "show_logo_in_search": null,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/89649084?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/89649084",
+            "relations": [],
+            "employer": {
+                "id": "4724980",
+                "name": "НПО Движение-жизнь",
+                "url": "https://api.hh.ru/employers/4724980",
+                "alternate_url": "https://hh.ru/employer/4724980",
+                "logo_urls": {
+                    "original": "https://hhcdn.ru/employer-logo-original/950995.jpeg",
+                    "240": "https://hhcdn.ru/employer-logo/4244513.jpeg",
+                    "90": "https://hhcdn.ru/employer-logo/4244512.jpeg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4724980",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Опыт работы от 1 года. Пунктуальность, аккуратность, усидчивость. Неравнодушное отношение к делу.",
+                "responsibility": "Работа на прямострочке. Пошив мягких элементов для детской мебели (подушечки для стульчиков). Готовый крой предоставляется."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": true,
+            "professional_roles": [
+                {
+                    "id": "141",
+                    "name": "Швея, портной, закройщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "91109039",
+            "premium": false,
+            "name": "Швея",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": 80000,
+                "to": 80000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-12-28T11:56:43+0300",
+            "created_at": "2023-12-28T11:56:43+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=91109039",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/91109039?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/91109039",
+            "relations": [],
+            "employer": {
+                "id": "10313209",
+                "name": "Аврора",
+                "url": "https://api.hh.ru/employers/10313209",
+                "alternate_url": "https://hh.ru/employer/10313209",
+                "logo_urls": null,
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10313209",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Опыт работы от 1 года. Раскрой и пошив одежды.",
+                "responsibility": "Пошив футболок полного цикла, включая ВТО."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "141",
+                    "name": "Швея, портной, закройщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "90459776",
+            "premium": false,
+            "name": "Швея",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "104",
+                "name": "Челябинск",
+                "url": "https://api.hh.ru/areas/104"
+            },
+            "salary": {
+                "from": 45000,
+                "to": 60000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Челябинск",
+                "street": "улица Орджоникидзе",
+                "building": "41/2",
+                "lat": 55.15123,
+                "lng": 61.40471,
+                "description": null,
+                "raw": "Челябинск, улица Орджоникидзе, 41/2",
+                "metro": null,
+                "metro_stations": [],
+                "id": "14807653"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-01-03T19:51:36+0300",
+            "created_at": "2024-01-03T19:51:36+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=90459776",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/90459776?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/90459776",
+            "relations": [],
+            "employer": {
+                "id": "10553778",
+                "name": "Майорова Ольга Эдуардовна",
+                "url": "https://api.hh.ru/employers/10553778",
+                "alternate_url": "https://hh.ru/employer/10553778",
+                "logo_urls": null,
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10553778",
+                "accredited_it_employer": false,
+                "trusted": false
+            },
+            "snippet": {
+                "requirement": "От вас: — Аккуратность, ответственность. — Опыт в пошиве. Швейное образование не обязательно.",
+                "responsibility": "Массовый пошив одежды по готовому крою: трикотаж, платья, блузы, юбки."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [
+                {
+                    "id": "from_four_to_six_hours_in_a_day",
+                    "name": "Можно работать сменами по 4–6 часов в день"
+                }
+            ],
+            "working_time_modes": [
+                {
+                    "id": "start_after_sixteen",
+                    "name": "Можно начинать работать после 16:00"
+                }
+            ],
+            "accept_temporary": true,
+            "professional_roles": [
+                {
+                    "id": "141",
+                    "name": "Швея, портной, закройщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "90408763",
+            "premium": false,
+            "name": "Швея-портной",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": 100000,
+                "to": 160000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "поселение Московский",
+                "street": null,
+                "building": null,
+                "lat": 55.65935139510566,
+                "lng": 37.41687862684316,
+                "description": null,
+                "raw": "поселение Московский",
+                "metro": null,
+                "metro_stations": [],
+                "id": "14801712"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-01-02T17:48:57+0300",
+            "created_at": "2024-01-02T17:48:57+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=90408763",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/90408763?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/90408763",
+            "relations": [],
+            "employer": {
+                "id": "5565121",
+                "name": "Шангуа Илона Эдуардовна",
+                "url": "https://api.hh.ru/employers/5565121",
+                "alternate_url": "https://hh.ru/employer/5565121",
+                "logo_urls": null,
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5565121",
+                "accredited_it_employer": false,
+                "trusted": false
+            },
+            "snippet": {
+                "requirement": "Знать обработку премиум качества. Аккуратность. Профессиональное оборудование.",
+                "responsibility": "Кроить. Отшивать. Сметывать."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "flexible",
+                "name": "Гибкий график"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": true,
+            "professional_roles": [
+                {
+                    "id": "141",
+                    "name": "Швея, портной, закройщик"
+                }
+            ],
+            "accept_incomplete_resumes": true,
+            "experience": {
+                "id": "moreThan6",
+                "name": "Более 6 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "91182397",
+            "premium": false,
+            "name": "Швея-портной",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1002",
+                "name": "Минск",
+                "url": "https://api.hh.ru/areas/1002"
+            },
+            "salary": {
+                "from": 1800,
+                "to": 2500,
+                "currency": "BYR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Минск",
+                "street": "улица Академика Купревича",
+                "building": "10",
+                "lat": 53.926616,
+                "lng": 27.689203,
+                "description": null,
+                "raw": "Минск, улица Академика Купревича, 10",
+                "metro": null,
+                "metro_stations": [],
+                "id": "14755806"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-01-04T10:00:24+0300",
+            "created_at": "2024-01-04T10:00:24+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=91182397",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/91182397?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/91182397",
+            "relations": [],
+            "employer": {
+                "id": "10580926",
+                "name": "Научно-производственный центр Техномаг Физико-технического института Национальной академии наук Беларуси",
+                "url": "https://api.hh.ru/employers/10580926",
+                "alternate_url": "https://hh.ru/employer/10580926",
+                "logo_urls": null,
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10580926",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Пунктуальность. Желание работать не только на словах. Желательно иметь специальное образование по направлению.",
+                "responsibility": "Отшив изделий от начало до конца. - Четкое соблюдение технологического процесса."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [
+                {
+                    "id": "from_four_to_six_hours_in_a_day",
+                    "name": "Можно работать сменами по 4–6 часов в день"
+                }
+            ],
+            "working_time_modes": [],
+            "accept_temporary": true,
+            "professional_roles": [
+                {
+                    "id": "141",
+                    "name": "Швея, портной, закройщик"
+                }
+            ],
+            "accept_incomplete_resumes": true,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "90682044",
+            "premium": false,
+            "name": "Швея/швея-универсал в цех",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": 90000,
+                "to": 130000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "деревня Сосенки",
+                "street": "Ясеневая улица",
+                "building": "1",
+                "lat": 55.567779,
+                "lng": 37.444521,
+                "description": null,
+                "raw": "деревня Сосенки, Ясеневая улица, 1",
+                "metro": null,
+                "metro_stations": [],
+                "id": "14830709"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-12-14T12:04:29+0300",
+            "created_at": "2023-12-14T12:04:29+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=90682044",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/90682044?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/90682044",
+            "relations": [],
+            "employer": {
+                "id": "9848724",
+                "name": "FOXBERRY бренд женской одежды",
+                "url": "https://api.hh.ru/employers/9848724",
+                "alternate_url": "https://hh.ru/employer/9848724",
+                "logo_urls": null,
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9848724",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Знание четырехнитки, распошивалки, прямострочки, поясной машины обязательно (умение самостоятельно заправить нитки, настроить строчку и т д). Требования: опыт работы не...",
+                "responsibility": "1. Полная сборка трикотажных изделий (кулирка, кашкорсе, футер) либо пооперационная сборка. 2. При необходимости отшив образцов, устрание дефектов и мелкий..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [
+                {
+                    "id": "from_four_to_six_hours_in_a_day",
+                    "name": "Можно работать сменами по 4–6 часов в день"
+                }
+            ],
+            "working_time_modes": [],
+            "accept_temporary": true,
+            "professional_roles": [
+                {
+                    "id": "141",
+                    "name": "Швея, портной, закройщик"
+                }
+            ],
+            "accept_incomplete_resumes": true,
+            "experience": {
+                "id": "between3And6",
+                "name": "От 3 до 6 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "90713214",
+            "premium": false,
+            "name": "Швея",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "160",
+                "name": "Алматы",
+                "url": "https://api.hh.ru/areas/160"
+            },
+            "salary": {
+                "from": 250000,
+                "to": 350000,
+                "currency": "KZT",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-12-15T07:10:39+0300",
+            "created_at": "2023-12-15T07:10:39+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=90713214",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/90713214?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/90713214",
+            "relations": [],
+            "employer": {
+                "id": "10495209",
+                "name": "Наталья",
+                "url": "https://api.hh.ru/employers/10495209",
+                "alternate_url": "https://hh.ru/employer/10495209",
+                "logo_urls": null,
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10495209",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": null,
+                "responsibility": "Рабочий процесс (бригадный, пооперационный)."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "141",
+                    "name": "Швея, портной, закройщик"
+                }
+            ],
+            "accept_incomplete_resumes": true,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "91194989",
+            "premium": false,
+            "name": "Швея-портной",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "160",
+                "name": "Алматы",
+                "url": "https://api.hh.ru/areas/160"
+            },
+            "salary": {
+                "from": 350000,
+                "to": null,
+                "currency": "KZT",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2024-01-05T09:08:57+0300",
+            "created_at": "2024-01-05T09:08:57+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=91194989",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/91194989?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/91194989",
+            "relations": [],
+            "employer": {
+                "id": "2980633",
+                "name": "Казахстанский бренд одежды Heybaby.kz",
+                "url": "https://api.hh.ru/employers/2980633",
+                "alternate_url": "https://hh.ru/employer/2980633",
+                "logo_urls": null,
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2980633",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Умение работать со всеми видами ткани и трикотажа. Знание современной технологии швейных изделий любой сложности. Знание и умение работать на...",
+                "responsibility": "Взаимодействие с технологом. Аккуратный и качественный пошив эталонных образцов изделий от начала до конца. Качественная проработка сложных узлов. "
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "141",
+                    "name": "Швея, портной, закройщик"
+                }
+            ],
+            "accept_incomplete_resumes": true,
+            "experience": {
+                "id": "between3And6",
+                "name": "От 3 до 6 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "87737645",
+            "premium": false,
+            "name": "Швея",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "2058",
+                "name": "Орехово-Зуево",
+                "url": "https://api.hh.ru/areas/2058"
+            },
+            "salary": {
+                "from": 70000,
+                "to": 120000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Орехово-Зуево",
+                "street": "улица Бабушкина",
+                "building": "2А",
+                "lat": 55.809788,
+                "lng": 38.993504,
+                "description": null,
+                "raw": "Орехово-Зуево, улица Бабушкина, 2А",
+                "metro": null,
+                "metro_stations": [],
+                "id": "6453304"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-12-14T11:28:03+0300",
+            "created_at": "2023-12-14T11:28:03+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=87737645",
+            "show_logo_in_search": null,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/87737645?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/87737645",
+            "relations": [],
+            "employer": {
+                "id": "750926",
+                "name": "ANTIGA",
+                "url": "https://api.hh.ru/employers/750926",
+                "alternate_url": "https://hh.ru/employer/750926",
+                "logo_urls": {
+                    "original": "https://hhcdn.ru/employer-logo-original/899968.png",
+                    "90": "https://hhcdn.ru/employer-logo/4040559.png",
+                    "240": "https://hhcdn.ru/employer-logo/4040560.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=750926",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Опыт по пошиву одежды на швейных предприятиях - от 6-ти месяцев. Ответственность, аккуратность.",
+                "responsibility": "Качественный пооперационный пошив женской одежды. Выполнение производственных норм."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "flexible",
+                "name": "Гибкий график"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": true,
+            "professional_roles": [
+                {
+                    "id": "141",
+                    "name": "Швея, портной, закройщик"
+                }
+            ],
+            "accept_incomplete_resumes": true,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "90795802",
+            "premium": false,
+            "name": "Швея-портной",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": 80000,
+                "to": 140000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Москва",
+                "street": "Гостиничный проезд",
+                "building": "8к1",
+                "lat": 55.845916,
+                "lng": 37.576106,
+                "description": null,
+                "raw": "Москва, Гостиничный проезд, 8к1",
+                "metro": {
+                    "station_name": "Окружная",
+                    "line_name": "Люблинско-Дмитровская",
+                    "station_id": "10.596",
+                    "line_id": "10",
+                    "lat": 55.848889,
+                    "lng": 37.571111
+                },
+                "metro_stations": [
+                    {
+                        "station_name": "Окружная",
+                        "line_name": "Люблинско-Дмитровская",
+                        "station_id": "10.596",
+                        "line_id": "10",
+                        "lat": 55.848889,
+                        "lng": 37.571111
+                    },
+                    {
+                        "station_name": "Окружная",
+                        "line_name": "МЦК",
+                        "station_id": "95.515",
+                        "line_id": "95",
+                        "lat": 55.848889,
+                        "lng": 37.571111
+                    },
+                    {
+                        "station_name": "Окружная",
+                        "line_name": "МЦД - 1",
+                        "station_id": "131.697",
+                        "line_id": "131",
+                        "lat": 55.848889,
+                        "lng": 37.571111
+                    }
+                ],
+                "id": "14856107"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-12-18T14:30:14+0300",
+            "created_at": "2023-12-18T14:30:14+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=90795802",
+            "show_logo_in_search": null,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/90795802?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/90795802",
+            "relations": [],
+            "employer": {
+                "id": "10638133",
+                "name": "All in",
+                "url": "https://api.hh.ru/employers/10638133",
+                "alternate_url": "https://hh.ru/employer/10638133",
+                "logo_urls": {
+                    "original": "https://hhcdn.ru/employer-logo-original/1209773.png",
+                    "240": "https://hhcdn.ru/employer-logo/6459542.png",
+                    "90": "https://hhcdn.ru/employer-logo/6459541.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10638133",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Стремиться обучаться новому. Иметь желание научиться работать быстро, при этом не ухудшая качество пошива. Когда возникают сложности, то искать решения...",
+                "responsibility": "Пошив изделий по готовым лекалам. Выполнение ежедневного плана работ. Уборка за собой рабочего места."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "141",
+                    "name": "Швея, портной, закройщик"
+                }
+            ],
+            "accept_incomplete_resumes": true,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "90714403",
+            "premium": false,
+            "name": "Швея",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "104",
+                "name": "Челябинск",
+                "url": "https://api.hh.ru/areas/104"
+            },
+            "salary": {
+                "from": 40000,
+                "to": 80000,
+                "currency": "RUR",
+                "gross": true
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Челябинск",
+                "street": "улица Товарный Двор",
+                "building": "14",
+                "lat": 55.131826,
+                "lng": 61.411115,
+                "description": null,
+                "raw": "Челябинск, улица Товарный Двор, 14",
+                "metro": null,
+                "metro_stations": [],
+                "id": "14833435"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-12-15T08:06:53+0300",
+            "created_at": "2023-12-15T08:06:53+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=90714403",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/90714403?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/90714403",
+            "relations": [],
+            "employer": {
+                "id": "981454",
+                "name": "ТЕВИК",
+                "url": "https://api.hh.ru/employers/981454",
+                "alternate_url": "https://hh.ru/employer/981454",
+                "logo_urls": null,
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=981454",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Умение работать на промышленных машинах. Аккуратность, Исполнительность.",
+                "responsibility": null
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "141",
+                    "name": "Швея, портной, закройщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "89595247",
+            "premium": false,
+            "name": "Швея (м. Бауманская)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1",
+                "name": "Москва",
+                "url": "https://api.hh.ru/areas/1"
+            },
+            "salary": {
+                "from": 80000,
+                "to": 130000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": null,
+                "street": null,
+                "building": null,
+                "lat": null,
+                "lng": null,
+                "description": null,
+                "raw": null,
+                "metro": {
+                    "station_name": "Бауманская",
+                    "line_name": "Арбатско-Покровская",
+                    "station_id": "3.17",
+                    "line_id": "3",
+                    "lat": 55.772405,
+                    "lng": 37.67904
+                },
+                "metro_stations": [
+                    {
+                        "station_name": "Бауманская",
+                        "line_name": "Арбатско-Покровская",
+                        "station_id": "3.17",
+                        "line_id": "3",
+                        "lat": 55.772405,
+                        "lng": 37.67904
+                    }
+                ],
+                "id": "14696649"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-12-17T12:51:35+0300",
+            "created_at": "2023-12-17T12:51:35+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=89595247",
+            "show_logo_in_search": null,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/89595247?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/89595247",
+            "relations": [],
+            "employer": {
+                "id": "4780580",
+                "name": "ЭЙЧАР ПЕРЕЗАГРУЗКА",
+                "url": "https://api.hh.ru/employers/4780580",
+                "alternate_url": "https://hh.ru/employer/4780580",
+                "logo_urls": {
+                    "original": "https://hhcdn.ru/employer-logo-original/1210921.jpg",
+                    "240": "https://hhcdn.ru/employer-logo/6464134.jpeg",
+                    "90": "https://hhcdn.ru/employer-logo/6464133.jpeg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4780580",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Высокое качество пошива. Умение работать на промышленных машинах (прямострочка, оверлок); закрытые швы, полное ВТО, сборка от начала до конца. ",
+                "responsibility": "Качественный отшив уже раскроенных изделий (без ручных работ). Профессиональное знание методов сборки и обработки швейных изделий. Взаимодействие с технологом."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false,
+            "professional_roles": [
+                {
+                    "id": "141",
+                    "name": "Швея, портной, закройщик"
+                }
+            ],
+            "accept_incomplete_resumes": true,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "90939900",
+            "premium": false,
+            "name": "Швея на производство одежды",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "66",
+                "name": "Нижний Новгород",
+                "url": "https://api.hh.ru/areas/66"
+            },
+            "salary": {
+                "from": 45000,
+                "to": 100000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Нижний Новгород",
+                "street": "Сормовское шоссе",
+                "building": "1Д",
+                "lat": 56.329163,
+                "lng": 43.907621,
+                "description": null,
+                "raw": "Нижний Новгород, Сормовское шоссе, 1Д",
+                "metro": {
+                    "station_name": "Бурнаковская",
+                    "line_name": "Сормовская",
+                    "station_id": "51.291",
+                    "line_id": "51",
+                    "lat": 56.325704,
+                    "lng": 43.911897
+                },
+                "metro_stations": [
+                    {
+                        "station_name": "Бурнаковская",
+                        "line_name": "Сормовская",
+                        "station_id": "51.291",
+                        "line_id": "51",
+                        "lat": 56.325704,
+                        "lng": 43.911897
+                    }
+                ],
+                "id": "14002235"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-12-22T12:57:58+0300",
+            "created_at": "2023-12-22T12:57:58+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=90939900",
+            "show_logo_in_search": null,
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/90939900?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/90939900",
+            "relations": [],
+            "employer": {
+                "id": "2114175",
+                "name": "SHI-SHI",
+                "url": "https://api.hh.ru/employers/2114175",
+                "alternate_url": "https://hh.ru/employer/2114175",
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/5670076.png",
+                    "240": "https://hhcdn.ru/employer-logo/5670077.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/1012327.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2114175",
+                "accredited_it_employer": false,
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Опыт работы от 1-ого года. Аккуратность. Внимательность. Качественный пошив. Исполнительность.",
+                "responsibility": "Пошив женской одежды."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": true,
+            "professional_roles": [
+                {
+                    "id": "141",
+                    "name": "Швея, портной, закройщик"
+                }
+            ],
+            "accept_incomplete_resumes": false,
+            "experience": {
+                "id": "between1And3",
+                "name": "От 1 года до 3 лет"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        },
+        {
+            "id": "90225820",
+            "premium": false,
+            "name": "Швея",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "2",
+                "name": "Санкт-Петербург",
+                "url": "https://api.hh.ru/areas/2"
+            },
+            "salary": {
+                "from": 50000,
+                "to": null,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2023-12-02T15:34:13+0300",
+            "created_at": "2023-12-02T15:34:13+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=90225820",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/90225820?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/90225820",
+            "relations": [],
+            "employer": {
+                "id": "10598999",
+                "name": "Тут шьют",
+                "url": "https://api.hh.ru/employers/10598999",
+                "alternate_url": "https://hh.ru/employer/10598999",
+                "logo_urls": null,
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10598999",
+                "accredited_it_employer": false,
+                "trusted": false
+            },
+            "snippet": {
+                "requirement": "Работоспособность. - Аккуратность. - Ответственность. - Самоконтроль. Обязанности: - Быстрый и качественный пошив одежды из подготовленного кроя, полный цикл и по операциям. - ",
+                "responsibility": "Пошив швейных изделий. Быстрый и качественный пошив одежды из подготовленного кроя, полный цикл и по операциям. - Содержание рабочего места в..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [
+                {
+                    "id": "from_four_to_six_hours_in_a_day",
+                    "name": "Можно работать сменами по 4–6 часов в день"
+                }
+            ],
+            "working_time_modes": [],
+            "accept_temporary": true,
+            "professional_roles": [
+                {
+                    "id": "141",
+                    "name": "Швея, портной, закройщик"
+                }
+            ],
+            "accept_incomplete_resumes": true,
+            "experience": {
+                "id": "noExperience",
+                "name": "Нет опыта"
+            },
+            "employment": {
+                "id": "full",
+                "name": "Полная занятость"
+            },
+            "adv_response_url": null,
+            "is_adv_vacancy": false,
+            "adv_context": null
+        }
+    ],
+    "found": 1779,
+    "pages": 89,
+    "page": 0,
+    "per_page": 20,
+    "clusters": null,
+    "arguments": null,
+    "fixes": null,
+    "suggests": null,
+    "alternate_url": "https://hh.ru/search/vacancy?enable_snippets=true&text=%22%D1%88%D0%B2%D0%B5%D1%8F%22"
+}
