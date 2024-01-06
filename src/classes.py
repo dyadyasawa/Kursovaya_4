@@ -24,10 +24,10 @@ class HeadHunterApi(WorkApi):
 
         response = requests.get(url=f'http://api.hh.ru/vacancies?text="{self.prof}"').json()
 
-        with open('../data/hh_vacancies.json', 'w', encoding=('UTF-8')) as file:
+        with open('data/hh_vacancies.json', 'w', encoding=('UTF-8')) as file:
             json.dump(response, file, ensure_ascii=False, indent=4)
 
-        with open('../data/hh_vacancies.json', 'r', encoding=('UTF-8')) as file:
+        with open('data/hh_vacancies.json', 'r', encoding=('UTF-8')) as file:
             dict_info = json.load(file)
 
         return dict_info
@@ -52,6 +52,4 @@ class SuperJobApi(WorkApi):
         """ Метод для подключения к API и получения вакансий superjob.ru."""
         pass
 
-profession = input("По какой профессии вывести вакансии? >>>  ")
-p1 = HeadHunterApi(profession)
-print(p1.choice_dict(p1.get_vacancies()))
+
