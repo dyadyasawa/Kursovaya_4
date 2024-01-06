@@ -16,14 +16,14 @@ class WorkApi(ABC):
 
 class HeadHunterApi(WorkApi):
     """ Класс для работы с вакансиями через API сайта hh.ru. """
-    def __init__(self, prof, area):
+    def __init__(self,prof):
         self.prof = prof
-        self.area = area
+        #self.area = area
 
     def get_vacancies(self):
         """ Метод для подключения к API и получения вакансий hh.ru. """
 
-        response = requests.get(url=f'http://api.hh.ru/vacancies?text={self.prof}&areas={self.area}').json()
+        response = requests.get(url=f'http://api.hh.ru/vacancies?text="{self.prof}"').json()
 
         with open('data/hh_vacancies.json', 'w', encoding=('UTF-8')) as file:
             json.dump(response, file, ensure_ascii=False, indent=4)
@@ -53,6 +53,6 @@ class SuperJobApi(WorkApi):
         """ Метод для подключения к API и получения вакансий superjob.ru."""
         pass
 
-# p1 = HeadHunterApi('швея', 'Москва')
+# p1 = HeadHunterApi('Москва')
 #
 # print(p1.get_vacancies())
