@@ -16,22 +16,30 @@ class WorkApi(ABC):
 
 class HeadHunterApi(WorkApi):
     """ Класс для работы с вакансиями через API сайта hh.ru. """
-    def __init__(self,prof):
+    def __init__(self, prof: str, area: int):
         self.prof = prof
-        #self.area = area
+        self.area = area
 
     def get_vacancies(self):
         """ Метод для подключения к API и получения вакансий hh.ru. """
 
-        response = requests.get(url=f'http://api.hh.ru/vacancies?text="{self.prof}"').json()
+        url_hh = "http://api.hh.ru/vacancies"
+        params = {'text': f'name:{self.prof}',
+                  'area': 1,
+                  'page': 0}
+
+        response = requests.get(url_hh, params).json()
+
 
         with open('data/hh_vacancies.json', 'w', encoding=('UTF-8')) as file:
             json.dump(response, file, ensure_ascii=False, indent=4)
+
 
         with open('data/hh_vacancies.json', 'r', encoding=('UTF-8')) as file:
             dict_info = json.load(file)
 
         return dict_info
+
 
     @staticmethod
     def choice_dict(dict_for_choice):
@@ -44,6 +52,7 @@ class HeadHunterApi(WorkApi):
         print(f"Место: {dfc['items'][0]['area']['name']}")
         print(f"Занятость: {dfc['items'][0]['schedule']['name']}")
         print(f"Условия: {dfc['items'][0]['snippet']['responsibility']}")
+        print(f"Страница: {dfc['page']} из {dfc['pages']}")
 
 
 class SuperJobApi(WorkApi):
@@ -53,6 +62,7 @@ class SuperJobApi(WorkApi):
         """ Метод для подключения к API и получения вакансий superjob.ru."""
         pass
 
-# p1 = HeadHunterApi('Москва')
+
+# p1 = HeadHunterApi('токарь', 1)
 #
 # print(p1.get_vacancies())
