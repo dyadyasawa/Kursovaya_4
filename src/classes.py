@@ -16,9 +16,10 @@ class WorkApi(ABC):
 
 class HeadHunterApi(WorkApi):
     """ Класс для работы с вакансиями через API сайта hh.ru. """
-    def __init__(self, prof: str, area: str):
+    def __init__(self, prof: str, area: str, salary=1_000_000_000):
         self.prof = prof
         self.area = area
+        self.salary = salary
 
     def get_vacancies(self):
         """ Метод для подключения к API и получения вакансий hh.ru. """
