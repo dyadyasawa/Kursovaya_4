@@ -29,31 +29,27 @@ class HeadHunterApi(WorkApi):
         #           'page': 0}
         #
         # response = requests.get(url_hh, params).json()
-        response = requests.get(f"http://api.hh.ru/vacancies?text=name:!{self.prof} AND !{self.area}").json()
-
-
+        response = requests.get(f"http://api.hh.ru/vacancies?text=!{self.prof} AND !{self.area}").json()
         with open('data/hh_vacancies.json', 'w', encoding=('UTF-8')) as file:
             json.dump(response, file, ensure_ascii=False, indent=4)
-
 
         with open('data/hh_vacancies.json', 'r', encoding=('UTF-8')) as file:
             dict_info = json.load(file)
 
         return dict_info
 
+    @staticmethod
+    def choice_dict(dict_for_choice):
 
-    # @staticmethod
-    # def choice_dict(dict_for_choice):
-    #
-    #     dfc = dict_for_choice
-    #
-    #     print(f"Профессия: {dfc['items'][0]['name']}")
-    #     print(f"Зарплата: {dfc['items'][0]['salary']['from']}")
-    #     print(f"Валюта: {dfc['items'][0]['salary']['currency']}")
-    #     print(f"Место: {dfc['items'][0]['area']['name']}")
-    #     print(f"Занятость: {dfc['items'][0]['schedule']['name']}")
-    #     print(f"Условия: {dfc['items'][0]['snippet']['responsibility']}")
-    #     print(f"Страница: {dfc['page']} из {dfc['pages']}")
+        dfc = dict_for_choice
+
+        print(f"Профессия: {dfc['items'][0]['name']}")
+        print(f"Зарплата: {dfc['items'][0]['salary']['from']}")
+        print(f"Валюта: {dfc['items'][0]['salary']['currency']}")
+        print(f"Место: {dfc['items'][0]['area']['name']}")
+        print(f"Занятость: {dfc['items'][0]['schedule']['name']}")
+        print(f"Условия: {dfc['items'][0]['snippet']['responsibility']}")
+        print(f"Страница: {dfc['page']} из {dfc['pages']}")
 
 
 class SuperJobApi(WorkApi):
@@ -62,8 +58,3 @@ class SuperJobApi(WorkApi):
     def get_vacancies(self):
         """ Метод для подключения к API и получения вакансий superjob.ru."""
         pass
-
-
-# p1 = HeadHunterApi('токарь', 1)
-#
-# print(p1.get_vacancies())
