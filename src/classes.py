@@ -33,7 +33,7 @@ class HeadHunterApi(WorkApi):
 
         pages = int(dict_info['pages'])
 
-        for page in range(pages +1):
+        for page in range(pages + 1):
             response = requests.get(f"http://api.hh.ru/vacancies?text=name:!{self.prof} AND !{self.area}&page={page}").json()
 
             with open('data/hh_vacancies.json', 'w', encoding=('UTF-8')) as file:
