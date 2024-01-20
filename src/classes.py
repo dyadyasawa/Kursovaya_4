@@ -86,7 +86,8 @@ class SuperJobApi(WorkApi):
 
     def get_vacancies(self):
         """ Метод для подключения к API и получения вакансий superjob.ru."""
-        pass
+        id_app = 3312
+        secret_key = 'v3.r.138063962.7e0c658ab688b2253b612e926fc273075f1049a0.04f76deb831d357684d078281127c231188a7b68'
 
 
 # p1 = HeadHunterApi('токарь', 1)
